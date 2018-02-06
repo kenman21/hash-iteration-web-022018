@@ -8,5 +8,6 @@ suite_e: "Crumpet the Elf"
 
 def select_winner(passengers)
   passenger.each do |suites, names|
-    
+    if suites[-1] == 'a' & names[0] = "A"
+      winner.push 
 end
